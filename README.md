@@ -31,4 +31,4 @@ Portfolio:
 https://haticekirac.framer.website/
 
 GitHub:
-github.com/Haticekiracno
+https://github.com/Haticekiracno
