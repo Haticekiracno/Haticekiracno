@@ -28,7 +28,7 @@ LinkedIn:
 www.linkedin.com/in/haticekirac
 
 Portfolio:
-haticekirac.framer.website
+https://haticekirac.framer.website/
 
 GitHub:
 github.com/Haticekiracno
