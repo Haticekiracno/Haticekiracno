@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Hatice Kırac
 
-<!--
-**Haticekiracno/Haticekiracno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer based in Norway 🇳🇴
 
-Here are some ideas to get you started:
+🎓 IT & Information Systems — University of Agder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 React Native | C# | .NET | AWS
+
+🌱 Interested in mobile apps, AI integrations and software development
+
+## About Me
+
+I'm a software developer and IT student at the University of Agder.
+
+I enjoy building mobile applications and solving real-world problems through technology.
+
+Currently working with:
+
+- React Native
+- C#
+- .NET
+- AWS
+- AI integrations
+
+## Connect with me
+
+LinkedIn:
+www.linkedin.com/in/haticekirac
+
+Portfolio:
+haticekirac.framer.website
+
+GitHub:
+github.com/Haticekiracno
